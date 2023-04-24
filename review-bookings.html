@@ -68,7 +68,7 @@
             row.append($('<td>').html('<img src="/hotel/images/spin.gif" />'));
             table.append(row);
 
-
+            // replace the 'url' attribute below to your API's URL
             $.ajax({
                 url: "https://umis7p2wae.execute-api.ap-southeast-2.amazonaws.com/query",
                 type: "get", 
@@ -128,6 +128,7 @@
                             status: status
                         });
 
+                        // replace the 'url' attribute below to your API's URL
                         $.ajax({
                             url: "https://ka5qkn54wa.execute-api.ap-southeast-2.amazonaws.com/approve?" + queryParams,
                             type: "POST",
