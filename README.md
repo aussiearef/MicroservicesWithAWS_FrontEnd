@@ -15,3 +15,9 @@ The course explains how a microservices-based system is developed and what relev
 View the full course here:
 
 ["Build Microservices with .NET and Amazon Web Services"](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/?referralCode=B288BF33506B34292176)
+
+## Usage
+
+1- Clone the repository on a local folder.
+2- Open the folder in Visual Studio Code.
+3- Search for "<api url here>" and replace it with the actual URL of the APIs that you build.
