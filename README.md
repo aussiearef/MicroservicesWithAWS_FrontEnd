@@ -21,7 +21,8 @@ View the complete courses here:
 1. Clone the repository on a local folder.
 2. Open the folder in Visual Studio Code.
 3. Search for "<api url here>" and replace it with the actual URL of the APIs you build.
+   
 
-You will need a web server like Internet Information Services (IIS) in Windows or Apache Tomcat on Mac/Linux. Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
+You will need a web server like Internet Information Service (IIS) in Windows or Apache Tomcat on Mac/Linux. Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
 
 
