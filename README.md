@@ -1,13 +1,12 @@
-# Build Microservices with AWS 
-# The Website
+# Build Microservices with AWS and .NET 
 
 
-![Microservices with .NET and AWS ](https://img-b.udemycdn.com/course/750x422/2080118_8bbf_8.jpg "Microservices with .NET and AWS")
+![Microservices with .NET and AWS ](https://img-c.udemycdn.com/course/750x422/2080118_8bbf_9.jpg "Microservices with .NET and AWS")
 
 
 This HTML & Javascript website is part of two online courses called ["Build Microservices with .NET and Amazon Web Services"](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/?referralCode=B288BF33506B34292176) and ["Master Event-Driven Microservices with Python and AWS"](https://www.udemy.com/course/build-microservices-with-python-aws/?referralCode=4727A2957A33ED2E4226)
 
-The purpose of this website is to act as the front-end for a microservices-based Hotel Booking system developed during the courses mentioned above. This straightforward website is designed with HTML, CSS and JavaScript. It takes the complexity of using a more sophisticated Javascript framework such as React or Angular away and lets students focus on learning Microservices and their development in AWS.
+The purpose of this website is to act as the front-end for a microservices-based Hotel Booking system developed during the courses mentioned above. This straightforward website is designed with HTML, CSS and JavaScript. It takes away the complexity of using a more sophisticated Javascript framework such as React or Angular and lets students focus on learning Microservices and their development in AWS.
 
 The course explains how a microservices-based system is developed and what relevant design patterns are applied in scenarios.
 
@@ -24,5 +23,12 @@ View the complete courses here:
    
 
 You will need a web server like Internet Information Service (IIS) in Windows or Apache Tomcat on Mac/Linux. Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
+
+## More Free Courses on YouTube
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](http://www.youtube.com/@FreeTechnologyLectures)
+
+Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
+
 
 
