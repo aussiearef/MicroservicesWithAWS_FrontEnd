@@ -6,7 +6,7 @@
 
 This HTML & Javascript website is part of two online courses called ["Build Microservices with .NET and Amazon Web Services"](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/?referralCode=B288BF33506B34292176) and ["Master Event-Driven Microservices with Python and AWS"](https://www.udemy.com/course/build-microservices-with-python-aws/?referralCode=4727A2957A33ED2E4226)
 
-The purpose of this website is to act as the front-end for a microservices-based Hotel Booking system developed during the courses mentioned above. This straightforward website is designed with HTML, CSS and JavaScript. It takes away the complexity of using a more sophisticated Javascript framework such as React or Angular and lets students focus on learning Microservices and their development in AWS.
+This website acts as the front-end for a microservices-based Hotel Booking system developed during the courses mentioned above. This straightforward website is designed with HTML, CSS, and JavaScript. It removes the complexity of using a more sophisticated Javascript framework such as React or Angular and lets students focus on learning Microservices and their development in AWS.
 
 The course explains how a microservices-based system is developed and what relevant design patterns are applied in scenarios.
 
@@ -30,5 +30,10 @@ You will need a web server like Internet Information Service (IIS) in Windows or
 
 Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
 
+## Buy me a coffee ☕
+
+If you find my work helpful, consider treating me by buying coffee!
+
+<a href="https://ko-fi.com/arefkarimi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="ko-fi" height="36"></a>
 
 
