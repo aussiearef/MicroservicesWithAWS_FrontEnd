@@ -20,9 +20,22 @@ View the complete courses here:
 1. Clone the repository on a local folder.
 2. Open the folder in Visual Studio Code.
 3. Search for "<api url here>" and replace it with the actual URL of the APIs you build.
-   
 
-You will need a web server like Internet Information Service (IIS) in Windows or Apache Tomcat on Mac/Linux. Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
+You will need a web server, such as Internet Information Service (IIS) in Windows or Apache Tomcat on Mac or Linux. 
+
+An easy option is to use Node.js's web server. Follow these steps:
+If you struggle with Tomcat, consider using a Node.js web server as an alternative.
+
+
+1. Download node.js : `https://nodejs.org/en`
+2. In Terminal, enter `npm --version` to make sure you have Node.js.
+3. In Terminal, enter `npm install -g http-server`
+4. Clone the front-end Github repository, then "cd" into that directory in Terminal: `cd path/to/your/website`
+5. Start the HTTP server: `http-server`
+6. Visit `http://localhost:8080` 
+7- If port 8080 is occupied on your computer, specify a different port when you start the HTTP server: `http-server -p 3000`
+
+Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
 
 ## More Free Courses on YouTube
 
