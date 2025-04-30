@@ -32,7 +32,7 @@ If you struggle with Tomcat, consider using Node.js as an alternative web server
 4. Clone the front-end Github repository, then "cd" into that directory in Terminal: `cd path/to/your/website`
 5. Start the HTTP server: `http-server`
 6. Visit `http://localhost:8080` 
-7- If port 8080 is occupied on your computer, specify a different port when you start the HTTP server: `http-server -p 3000`
+7. If port 8080 is occupied on your computer, specify a different port when you start the HTTP server: `http-server -p 3000`
 
 Alternatively, you can use ["Web Server Extension on Google Chrome"](https://bit.ly/3QJF53O)
 
